@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vivek 👋  <br>A passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.<br><br>💻 Skilled in: HTML, CSS, JavaScript, React  <br>🚀 Currently learning: Advanced React, Backend integration & Firebase  <br>📈 Goal: To become a full-stack developer and build impactful real-world projects  <br><br>I enjoy turning ideas into reality through code and continuously improving my skills.<br>
+Hi, I'm Vivek Patil👋  <br>A passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.<br><br>💻 Skilled in: HTML, CSS, JavaScript, React  <br>🚀 Currently learning: Advanced React, Backend integration & Firebase  <br>📈 Goal: To become a full-stack developer and build impactful real-world projects  <br><br>I enjoy turning ideas into reality through code and continuously improving my skills.<br>
 
 
 ## 🌐 Socials:
